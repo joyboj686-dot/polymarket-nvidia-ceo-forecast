@@ -1,0 +1,5 @@
+polymarket-nvidia-ceo-forecast-01-kit/
+kit.tar.gz
+proto.py
+score_local.py
+claude-prompt-*.txt
